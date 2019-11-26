@@ -1,2 +1,0 @@
-# ReactDashboardDemo
-Created with CodeSandbox

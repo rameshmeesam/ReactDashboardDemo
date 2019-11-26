@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+header {
+  background: #041e42;
+}
+
+.chart-heading {
+  background-color: #ff9900;
+  height: 45px;
+  width: 100%;
+}
+
+.chart-heading-icon {
+  float: right;
+}
